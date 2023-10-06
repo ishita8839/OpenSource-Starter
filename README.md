@@ -1,9 +1,11 @@
 # OpenSource-Starter
 🚀 Explore beginner-friendly open-source projects and step into the world of contributions with our curated repository list. Find your first project and start making a difference today!
 
-## Getting Started
+## Getting Started✨
 
 If you're new to open-source contributions, here's how you can get started:
+
+
 
 1. **Fork a Repository**: Click the "Fork" button on the top right of any repository you're interested in contributing to. This creates a copy of the repository in your GitHub account.
 
